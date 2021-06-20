@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
       </header>
       <body>
-        Body
+        <p className="code">Body</p>
 
       </body>
       <footer>
