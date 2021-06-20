@@ -4,9 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      pala
-      badan
-      bawah
+      <header>
+        Header
+
+      </header>
+      <body>
+        Body
+
+      </body>
+      <footer>
+        Footer
+
+      </footer>
     </div>
   );
 }
